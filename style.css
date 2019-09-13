@@ -1,0 +1,6 @@
+thead,
+tfoot {background-color: white;color: black}
+
+input {border:2px solid #333; border-radius:15px; padding: 20px 30px}
+input:focus{border-color: rgb(252,252,3);}
+input:hover{border-color: rgb(3,252,252);}
